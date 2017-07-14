@@ -1,0 +1,42 @@
+img {
+    display: block;
+    margin: 0 auto;
+    height: 
+    width
+}
+body {
+    background:url("pink.jpeg")
+}
+div#box {
+    height: 50vh;
+    background:url("black.jpeg");
+    overflow: scroll;
+    
+}
+
+input {
+    width: 80%;
+}
+button {
+    color: rgb(70,12,4);
+    border: 2px dashed yellow;
+    background:mediumaquamarine;
+    box-shadow: 0 0 12px black;
+}
+p {
+    color:mediumblue;
+    background:  mediumaquamarine;
+    border: 2px dotted lightpink;
+    box-shadow: 0 0 26px mediumslateblue;
+}
+
+button:hover, button:focus {
+    font-weight:bold;
+    box-shadow:0 0 5px;
+}
+ button:active{
+     background:blue;
+ }
+ 
+ 
+
